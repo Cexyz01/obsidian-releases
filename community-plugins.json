@@ -37462,5 +37462,12 @@
     "author": "Aiken Lin",
     "description": "Keep note filenames aligned with the first H1 — automatically and safely. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "aiken884/obsidian-h1aligner"
+  },
+  {
+    "id": "basecraft",
+    "name": "Basecraft",
+    "author": "Hewnpath",
+    "description": "Pivot tables for Bases. Group rows × columns with count, sum, average and more.",
+    "repo": "Cexyz01/obsidian-basecraft"
   }
 ]
